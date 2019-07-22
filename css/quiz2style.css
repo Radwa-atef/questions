@@ -1,0 +1,116 @@
+.question
+{
+    background-color: gray;
+    padding: 20px;
+}
+ h1{
+    color:orange;
+    text-align: center;
+}
+.one
+{
+    margin: auto;
+    width: 80%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.one input
+{
+    display: inline-block;
+}
+.resstyle
+{
+    background-color: white;
+    width:80%;
+    padding: 20px;
+    margin-top: 10px;
+    border-radius: 20px;
+    margin: auto;
+}
+#ques2 h2
+{
+    text-align: center;
+    width: 200px;
+    margin: auto;
+    padding-top: 100px;
+    
+}
+#ques2
+{
+    padding: 20px;
+    height: 600px;
+}
+.ques3
+{
+    background-color: gray;
+    padding: 20px;
+    height: 300px;
+}
+.ques3 h1{
+    margin-bottom: 100px;
+}
+.clock
+{
+    text-align: center;
+    font-size: 30px;
+    background-color: orange;
+    padding: 20px;
+    width: 70%;
+   
+    margin: auto;
+}
+.del
+{
+    float: right;
+}
+.ques5
+{
+    background-color: gray;
+    
+}
+.valid
+{
+    margin: auto;
+    width: 80%;
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+}
+.valid input{
+    width: 90%;
+    
+}
+.valid .x
+{
+    padding-bottom: 70px;
+}
+.alert
+{
+    display: none;
+}
+.ques4{
+    text-align: center;
+    padding: 70px;
+}
+.ques4 #img2,#img3,#img1
+{
+    display: inline-block;
+    font-size: 200px;
+    text-shadow: 10px 10px white;
+   
+}
+#img2
+{
+    color:green;
+}
+#img1
+{
+    color:red;
+}
+#img3
+{
+    color:blue;
+}
